@@ -4,7 +4,7 @@ Fonts are stored locally and loaded from this application. Text remains unchange
 
 | Pack | Font / source | Attribution and terms |
 | --- | --- | --- |
-| Dovahzul | dragon_alphabet.ttf | User-provided font; existing asset |
+| Dovahzul | dragon_alphabet.ttf | [Thuum.org](https://www.thuum.org/downloads.php?utm_source=chatgpt.com#font)  |
 | Phyrexian | [Basilica](https://github.com/fxbuson/PhyrexianDictionary/blob/gh-pages/fonts/Basilica.otf) | GuruJ, 2023. Font metadata specifies [CC BY](https://creativecommons.org/licenses/by/4.0/); derived from Progress Engine and remapped to Wizards transcription. Unmodified. WORD is an approximate transcription, not a verified translation. |
 | Phyrexian C/c supplement | [SpeckledSpeckles' PhrexianRev2](https://www.reddit.com/r/mtg/comments/1p6jo6v/phyrexian_font_is_now_compleated/) | Non-canon community C/c glyph extracted into Word-Phyrexian-Fan-C.otf. Basilica remains the primary font; underlying text remains C/c. |
 | Mando’a | [Mando AF Classic](https://aurekfonts.github.io/?font=MandoAF) | Drew / Galactic Surplus. Font metadata: CC0 public domain. |
